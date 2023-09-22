@@ -1,0 +1,3 @@
+[submodule "LSMQueryDrivenCompaction"]
+	path = LSMQueryDrivenCompaction
+	url = https://github.com/Data-Brandeis/LSMQueryDrivenCompaction.git
